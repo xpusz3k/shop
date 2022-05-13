@@ -16,7 +16,7 @@ const (
 
 type Payment struct {
 	Product        model.Product
-	Secret         string
+	Secret         638929263738392927
 	Amount         uint32
 	WebsiteAddress string
 	OrderID        uuid.UUID
